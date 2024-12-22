@@ -1,2 +1,2 @@
 # second-demo
-This is my practice demo for github repository creation.
+This is my practice demo for github repository creation (with update).
